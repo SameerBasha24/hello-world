@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "future-dynamics-328110",
+  "private_key_id": "ae69d841e0d0b637a73e336c836e8cdee364337e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCPbMTBEVJ/Rcak\nymjDCcMdt475ZvVGjIM4IFDEIHoesiWVqBtYC+lRtb2EBvRKzVNd/DRCZqYJZLPs\nnLpiucx3SrF6PcFgn9If9SEsKWqkomCdwI7pcF3A43lCQTzs0+gaIjYWSY4BGny2\nUsOO5BswRv0oiD/64wIBngGezW3EqbkbnOmGfj67p031SupnAk68JdjH3YdNb5pz\n09b7dnkCSgu2UtTjLOZ2e3HLo+K/YGGomWEVUilUoh2l4712iF+usBMWex+2kGix\nhkVpC739n7AD21qWq68OYGMpsBgLY2jlNgDLRB04Z7AYM87uHpXWI9oBCE/eOVK6\nYM1cmat/AgMBAAECggEABxaKL2Zylsf1K2Ngw7Qho0AqkzMeOl3VsE+R3kIioY4O\nox5F4lc4W9Q+U541CCtXNuUGFNAA3aRPQLQgK/fgXcw1stkGy7EqT8UBXi7aeTIY\nfJitwhCjuYAkbSdPN6m4pe38kU5nnltXlXpyoAcFkaBjK3529v2tYDTAV2pHRfmb\nApdsktcfu8cyEZSnPOkctIbOpifIvV+kj5xxC6sBpZQknrEzTrJsNfqRTaD1oq+q\nYCeuoTVg43rI6WDWJp9yG28jEOII7G7dXLZIl/5jFVbwUJD0RODPIPR0iMVLYuXK\nBuDfmmUWuChG1A4HffCFkGTFsoMq5DY6fDYolxEfqQKBgQDJ86aUEiMUGE72D31E\nlPpoTSaNN3AwbvsT+2bFBQE/ItODlco1vma5LBSB+KLdJbUcqKsMEBzsSr/t8vUT\n99WZrA9WEirRyWTZ0D9vJp3R15dTL2AHDft0IoreC6a9sQxanNAl0J0EMIq/GmYr\nzwZQAyMygLoSPwXpLfbWP7v16QKBgQC1z0He31Xdb6UT5pbfpZvNfDjxCf9FJr9N\nlJqZNMBKOkVrJTK3rkYV3OHZbU92UGn2uVfNgBbkazIGsLMTgUku4Wy0AS8BBbPk\nsvXf/8XtpUYAk2jvnP7mzQqBKR2kDnJvrJcIjSBj2YhDcb207ziqgKesazMBbbz3\nnaxIdEttJwKBgBlsHJojNls/PCFpjcFmZ6ddnu7D/dF7Bwxa53MB0EhcX/f+kTf2\nwgOpcuNxoz7nkkcLTIz2Mk3kkwinPwbGehMgP8X7/3vtOE7bEkExwUg7NYd5PUNm\nFTNnbcfJ+7GBaia1+tXnzvxKCA1Ki3YUV50W6AVhgwrs+BeEe8A4wbaRAoGBAIOF\nxY8nXYRtaaw12ds8gLNsM/0bUFGEMEw9PoGqiZipAuL56/C43/ac7b1OuHdMwPs9\nJWmCSg1ABtaUKVfo5TpG1U56tLg2mebOF9TNwS+jqjpsaTM+DaCFoB3D0q+Fy/9B\niZkkDtRs34h61dP4YrPlkmbGvgVAj71JkQJxLsdtAoGBAIFikK/MgNt1bDP/KQ2E\nvzCQLlrc3+6rxkH6QQ39LeN/fWoAbTLEhkuSQWGc/UUON9ZEQX6EHEeb/Df2R08t\nCMVDGXLQl37hAXyho+/d6tbvLwE6DYFbZi9y+7wn69LXjaH+gLjgeEwEAm4UxXeY\nw7Pe6KmrKLgeMup0BEomxaPE\n-----END PRIVATE KEY-----\n",
+  "client_email": "bq-query-manager@future-dynamics-328110.iam.gserviceaccount.com",
+  "client_id": "117353964569386568745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bq-query-manager%40future-dynamics-328110.iam.gserviceaccount.com"
+}
